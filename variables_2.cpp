@@ -1,4 +1,5 @@
 #include <iostream>
+// use # include <string> to output strings
 using namespace std;
 
 int main()
