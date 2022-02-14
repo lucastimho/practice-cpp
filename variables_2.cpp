@@ -5,6 +5,7 @@ int main()
 {
   int myNum = 5;
   double myFloatNum = 5.99;
+  // you can use scientific notion 'e' to make big numbers
   char myLetter = 'D';
   string myText = "Hello";
   bool myBoolean = true;
