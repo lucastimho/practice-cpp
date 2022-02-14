@@ -19,5 +19,6 @@ int main()
   f = 70.0 / 3.0;
   cout << f << endl;
   // can use \n\n concatenation instead of endl
+  // use .append() to strings or other objects to concatenation
   return 0;
 }
