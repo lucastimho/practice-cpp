@@ -19,5 +19,9 @@ int main()
   {
     cout << "It's weekend. Enjoy it. \n";
   }
+  else
+  {
+    cout << "That does not compute. Try again! \n";
+  }
   return 0;
 }
