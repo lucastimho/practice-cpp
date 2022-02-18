@@ -9,7 +9,7 @@ int main()
   cin >> pill;
   if (pill == "red")
   {
-    cout << "You  took the red pill. \n";
+    cout << "You took the red pill. \n";
   }
   else if (pill == "blue")
   {
